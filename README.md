@@ -12,6 +12,7 @@ This is my first ever python project so the code is likely not optimized and in 
 
 
 ######################
+
 Steps to reproduce on Windows:
 1. Install Python and OpenCV, and set up their environmental variables properly
 2. Install PIP and use pip to install numpy (I think) using powershell (I tried git bash but it didn't have a console, which is not necessary anyway but for testing it was)
@@ -23,5 +24,6 @@ Steps to reproduce on Windows:
 
 
 ####################
+
 Possible improvements:
 I might try getting rid of the console output as that was just for testing, and I can also reduce the time between keyboard presses  until it is optimized. 
